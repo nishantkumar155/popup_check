@@ -1,0 +1,8 @@
+popup_check.my_alert:
+  path: '/my-alert'
+  defaults:
+    _controller: '\Drupal\popup_check\Controller\MyAlertController::page'
+    _title: 'Nishant Page'
+  requirements:
+    _permission: 'access content'
+

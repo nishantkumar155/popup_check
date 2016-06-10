@@ -1,0 +1,5 @@
+type: module
+name: 'popup_check'
+description: 'Pop up'
+version: '8.x-1.x-dev'
+core: '8.x'
